@@ -1,6 +1,6 @@
 # Data-Structure-Algorithms
 
-Selection sort and Bubble sort alogrithms are implemented
+Tetris Game
 
 Tower of Hanoi
 
